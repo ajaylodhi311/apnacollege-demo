@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
-author - ajaylodhi
+author - ajaylodhi <br>
 new author - satyamlodhi
